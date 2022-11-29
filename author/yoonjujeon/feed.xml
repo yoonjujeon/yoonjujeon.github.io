@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="http://localhost:4000/author/yoonjujeon/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-11-30T04:25:57+09:00</updated>
-  <id>http://localhost:4000/author/yoonjujeon/feed.xml</id>
+  <link href="http://yoonjujeon.github.io/author/yoonjujeon/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://yoonjujeon.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-11-30T05:03:40+09:00</updated>
+  <id>http://yoonjujeon.github.io/author/yoonjujeon/feed.xml</id>
 
   
   
@@ -32,12 +32,24 @@
 
   
     <entry>
-      <title type="html">Python 기본</title>
-      <link href="http://localhost:4000/python-basic" rel="alternate" type="text/html" title="Python 기본" />
+      <title type="html">Git 기본</title>
+      <link href="http://yoonjujeon.github.io/python-basic" rel="alternate" type="text/html" title="Git 기본" />
       <published>1863-11-19T19:18:00+09:00</published>
       <updated>1863-11-19T19:18:00+09:00</updated>
-      <id>http://localhost:4000/python-basic</id>
-      <content type="html" xml:base="http://localhost:4000/python-basic">&lt;p&gt;파이썬 내용&lt;/p&gt;</content>
+      <id>http://yoonjujeon.github.io/python-basic</id>
+      <content type="html" xml:base="http://yoonjujeon.github.io/python-basic">&lt;h2 id=&quot;git-이란&quot;&gt;Git 이란?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;분산 버전관리 시스템&lt;/li&gt;
+  &lt;li&gt;버전관리의 알파이자 오메가&lt;/li&gt;
+  &lt;li&gt;여러 사람이 한번에 코드 관리하기에 편리&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;git의-branch&quot;&gt;Git의 Branch&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;코드의 흐름을 분산 시켜서 효율적 개발 가능&lt;/li&gt;
+&lt;/ul&gt;</content>
 
       
       
@@ -54,11 +66,11 @@
       
 
       
-        <category term="python" />
+        <category term="git" />
       
 
       
-        <summary type="html">파이썬 내용</summary>
+        <summary type="html">Git 이란?</summary>
       
 
       
@@ -67,11 +79,11 @@
   
     <entry>
       <title type="html">Jekyll 기본</title>
-      <link href="http://localhost:4000/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 기본" />
+      <link href="http://yoonjujeon.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 기본" />
       <published>1863-11-19T19:18:00+09:00</published>
       <updated>1863-11-19T19:18:00+09:00</updated>
-      <id>http://localhost:4000/jekyll-basic</id>
-      <content type="html" xml:base="http://localhost:4000/jekyll-basic">&lt;h2 id=&quot;jekyll-이란&quot;&gt;Jekyll 이란?&lt;/h2&gt;
+      <id>http://yoonjujeon.github.io/jekyll-basic</id>
+      <content type="html" xml:base="http://yoonjujeon.github.io/jekyll-basic">&lt;h2 id=&quot;jekyll-이란&quot;&gt;Jekyll 이란?&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Ruby 기반 정적 웹사이트 생성기&lt;/li&gt;

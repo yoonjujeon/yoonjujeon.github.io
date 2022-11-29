@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="http://localhost:4000/author/yoonjujeon/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-11-30T05:38:12+09:00</updated>
-  <id>http://localhost:4000/author/yoonjujeon/feed.xml</id>
+  <link href="http://yoonjujeon.github.io/author/yoonjujeon/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://yoonjujeon.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-11-30T06:01:28+09:00</updated>
+  <id>http://yoonjujeon.github.io/author/yoonjujeon/feed.xml</id>
 
   
   
@@ -33,21 +33,20 @@
   
     <entry>
       <title type="html">Tag 만들기</title>
-      <link href="http://localhost:4000/howtomaketag" rel="alternate" type="text/html" title="Tag 만들기" />
+      <link href="http://yoonjujeon.github.io/howtomaketag" rel="alternate" type="text/html" title="Tag 만들기" />
       <published>1863-11-19T19:18:00+09:00</published>
       <updated>1863-11-19T19:18:00+09:00</updated>
-      <id>http://localhost:4000/howtomaketag</id>
-      <content type="html" xml:base="http://localhost:4000/howtomaketag">&lt;h2 id=&quot;tag-만드는-방법&quot;&gt;Tag 만드는 방법&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;tags.yml 에 name, description, cover 작성&lt;/li&gt;
-  &lt;li&gt;_includes 파일의 navigation.html에서 메뉴 만들기&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;tag-장점&quot;&gt;Tag 장점&lt;/h2&gt;
+      <id>http://yoonjujeon.github.io/howtomaketag</id>
+      <content type="html" xml:base="http://yoonjujeon.github.io/howtomaketag">&lt;h2 id=&quot;tag-란&quot;&gt;Tag 란?&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;주제별로 포스트를 모아 볼 수 있다!&lt;/li&gt;
+  &lt;li&gt;글의 범주를 정해줄 수 있는 기능&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tag-설정법&quot;&gt;Tag 설정법&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;_data폴더 안 tags.yml 에 name, description, cover 작성&lt;/li&gt;
 &lt;/ul&gt;</content>
 
       
@@ -69,7 +68,7 @@
       
 
       
-        <summary type="html">Tag 만드는 방법</summary>
+        <summary type="html">Tag 란?</summary>
       
 
       
@@ -78,11 +77,11 @@
   
     <entry>
       <title type="html">Jekyll 기본</title>
-      <link href="http://localhost:4000/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 기본" />
+      <link href="http://yoonjujeon.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 기본" />
       <published>1863-11-19T19:18:00+09:00</published>
       <updated>1863-11-19T19:18:00+09:00</updated>
-      <id>http://localhost:4000/jekyll-basic</id>
-      <content type="html" xml:base="http://localhost:4000/jekyll-basic">&lt;h2 id=&quot;jekyll-이란&quot;&gt;Jekyll 이란?&lt;/h2&gt;
+      <id>http://yoonjujeon.github.io/jekyll-basic</id>
+      <content type="html" xml:base="http://yoonjujeon.github.io/jekyll-basic">&lt;h2 id=&quot;jekyll-이란&quot;&gt;Jekyll 이란?&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Ruby 기반 정적 웹사이트 생성기&lt;/li&gt;
@@ -138,11 +137,11 @@
   
     <entry>
       <title type="html">Git 기본</title>
-      <link href="http://localhost:4000/git-basic" rel="alternate" type="text/html" title="Git 기본" />
+      <link href="http://yoonjujeon.github.io/git-basic" rel="alternate" type="text/html" title="Git 기본" />
       <published>1863-11-19T19:18:00+09:00</published>
       <updated>1863-11-19T19:18:00+09:00</updated>
-      <id>http://localhost:4000/git-basic</id>
-      <content type="html" xml:base="http://localhost:4000/git-basic">&lt;h2 id=&quot;git-이란&quot;&gt;Git 이란?&lt;/h2&gt;
+      <id>http://yoonjujeon.github.io/git-basic</id>
+      <content type="html" xml:base="http://yoonjujeon.github.io/git-basic">&lt;h2 id=&quot;git-이란&quot;&gt;Git 이란?&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;분산 버전관리 시스템&lt;/li&gt;

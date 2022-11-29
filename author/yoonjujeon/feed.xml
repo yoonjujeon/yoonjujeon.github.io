@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://localhost:4000/author/yoonjujeon/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-11-30T05:14:26+09:00</updated>
+  <updated>2022-11-30T05:38:12+09:00</updated>
   <id>http://localhost:4000/author/yoonjujeon/feed.xml</id>
 
   
@@ -30,6 +30,51 @@
   
   
 
+  
+    <entry>
+      <title type="html">Tag 만들기</title>
+      <link href="http://localhost:4000/howtomaketag" rel="alternate" type="text/html" title="Tag 만들기" />
+      <published>1863-11-19T19:18:00+09:00</published>
+      <updated>1863-11-19T19:18:00+09:00</updated>
+      <id>http://localhost:4000/howtomaketag</id>
+      <content type="html" xml:base="http://localhost:4000/howtomaketag">&lt;h2 id=&quot;tag-만드는-방법&quot;&gt;Tag 만드는 방법&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;tags.yml 에 name, description, cover 작성&lt;/li&gt;
+  &lt;li&gt;_includes 파일의 navigation.html에서 메뉴 만들기&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;tag-장점&quot;&gt;Tag 장점&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;주제별로 포스트를 모아 볼 수 있다!&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>yoonjujeon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tag" />
+      
+
+      
+        <summary type="html">Tag 만드는 방법</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Jekyll 기본</title>

@@ -32,4 +32,5 @@ _includes 폴더의 navigation.html을 수정해서 git, jekyll, tag 메뉴를 �
 C:[GitHubPage]/ 파일안의 내용을 깃허브페이지에 Publishing 하면 된다.
 "yoonjujeon.github.io"라는 이름의 repository를 만든 후에\
 Git을 이용하여 작업 내용을 repository에 push한다.\
+\
 그러면 이제 http://yoonjujeon.github.io로 접속해서 블로그를 볼 수 있다.

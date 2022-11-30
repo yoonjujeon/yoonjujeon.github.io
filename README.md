@@ -2,9 +2,10 @@
 blog - 자신의 프로젝트를 Build한 과정\
 \
 먼저 사용하고 싶은 지킬 테마를 골라 다운받았다.\
-환경 설정 파일인 _config.yml 을 내 정보에 맞게 수정했다.\
-_config.yml 에서 하트모양 favicon도 추가로 설정하였다.
-disqus에서 short name을 알아내고 _config.yml 에서 입력한다. 후 포스팅에 들어가면 댓글창이 뜬다.\
+지킬을 다운받았다.\
+환경 설정 파일인 _config.yml의 # Website info를 내 정보에 맞게 수정했다.\
+하트모양 favicon도 추가로 설정하였다.
+disqus에서 short name을 알아내고 _config.yml 에서 입력한다. 그 후 포스팅에 들어가면 댓글창이 뜬다.\
 \
 _post라는 폴더에 작성하려는 글을 markdown형식으로 작성한다.\
 그리고 bundle exec jekyll serve  명령을 통해서 build 시키면, 저장된 글에 대해 컴파일이 진행되고 결과물이 destination 폴더에 생성된다.\
